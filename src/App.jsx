@@ -4,7 +4,7 @@ import './App.css'
 export default function App() {
 
   return (
-      <p className='greet'>Hello world</p>
+      <p className='greet'>Hello, world!</p>
   )
 }
 

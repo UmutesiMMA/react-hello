@@ -1,7 +1,11 @@
 body{
   background-color: yellow;
 }
+#root{
+  height: 100%;
+}
 .greet{
   text-align: center;
+  padding-top: 50%;
   
 }
